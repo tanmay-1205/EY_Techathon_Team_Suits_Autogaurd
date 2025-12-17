@@ -4,7 +4,7 @@
 
 **College Name : Indian Institute of Technology Kharagpur**
 
-**Team Members : **
+Team Members :
 
 Adway Jha (+91 86551 94335)
 
