@@ -1,6 +1,7 @@
 # AutoGuard: Autonomous Agentic AI Ecosystem
 
 **EY Techathon 6.0 Submission - Team Suits**
+** Team Members **
 
 ## Executive Summary
 
