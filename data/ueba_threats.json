@@ -1,0 +1,116 @@
+[
+  {
+    "threat_id": "THREAT-20251216150610-9357",
+    "threat_type": "permission_violation",
+    "severity": "High",
+    "user_id": "U001",
+    "details": {
+      "message": "Action 'logout' not permitted for role 'fleet_manager'",
+      "user_role": "fleet_manager",
+      "allowed_permissions": [
+        "view_dashboard",
+        "view_vehicles",
+        "run_diagnostics",
+        "view_reports"
+      ],
+      "attempted_action": "logout"
+    },
+    "timestamp": "2025-12-16T15:06:10.876570",
+    "status": "active"
+  },
+  {
+    "threat_id": "THREAT-20251216153107-7472",
+    "threat_type": "permission_violation",
+    "severity": "High",
+    "user_id": "U001",
+    "details": {
+      "message": "Action 'logout' not permitted for role 'fleet_manager'",
+      "user_role": "fleet_manager",
+      "allowed_permissions": [
+        "view_dashboard",
+        "view_vehicles",
+        "run_diagnostics",
+        "view_reports"
+      ],
+      "attempted_action": "logout"
+    },
+    "timestamp": "2025-12-16T15:31:07.744447",
+    "status": "active"
+  },
+  {
+    "threat_id": "THREAT-20251216154111-1152",
+    "threat_type": "permission_violation",
+    "severity": "High",
+    "user_id": "U001",
+    "details": {
+      "message": "Action 'logout' not permitted for role 'fleet_manager'",
+      "user_role": "fleet_manager",
+      "allowed_permissions": [
+        "view_dashboard",
+        "view_vehicles",
+        "run_diagnostics",
+        "view_reports"
+      ],
+      "attempted_action": "logout"
+    },
+    "timestamp": "2025-12-16T15:41:11.279758",
+    "status": "active"
+  },
+  {
+    "threat_id": "THREAT-20251216154958-1030",
+    "threat_type": "permission_violation",
+    "severity": "High",
+    "user_id": "U001",
+    "details": {
+      "message": "Action 'logout' not permitted for role 'fleet_manager'",
+      "user_role": "fleet_manager",
+      "allowed_permissions": [
+        "view_dashboard",
+        "view_vehicles",
+        "run_diagnostics",
+        "view_reports"
+      ],
+      "attempted_action": "logout"
+    },
+    "timestamp": "2025-12-16T15:49:58.296685",
+    "status": "active"
+  },
+  {
+    "threat_id": "THREAT-20251216164414-9809",
+    "threat_type": "permission_violation",
+    "severity": "High",
+    "user_id": "U001",
+    "details": {
+      "message": "Action 'logout' not permitted for role 'fleet_manager'",
+      "user_role": "fleet_manager",
+      "allowed_permissions": [
+        "view_dashboard",
+        "view_vehicles",
+        "run_diagnostics",
+        "view_reports"
+      ],
+      "attempted_action": "logout"
+    },
+    "timestamp": "2025-12-16T16:44:14.892537",
+    "status": "active"
+  },
+  {
+    "threat_id": "THREAT-20251216165651-9663",
+    "threat_type": "permission_violation",
+    "severity": "High",
+    "user_id": "U001",
+    "details": {
+      "message": "Action 'logout' not permitted for role 'fleet_manager'",
+      "user_role": "fleet_manager",
+      "allowed_permissions": [
+        "view_dashboard",
+        "view_vehicles",
+        "run_diagnostics",
+        "view_reports"
+      ],
+      "attempted_action": "logout"
+    },
+    "timestamp": "2025-12-16T16:56:51.460019",
+    "status": "active"
+  }
+]

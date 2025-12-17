@@ -1,0 +1,1970 @@
+[
+  {
+    "activity_id": "ACT-000001",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:05:41.621151",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000002",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:06:10.832719",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000003",
+    "user_id": "U001",
+    "action": "logout",
+    "timestamp": "2025-12-16T15:06:10.874579",
+    "details": {}
+  },
+  {
+    "activity_id": "ACT-000004",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:06:23.379393",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000005",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:06:40.796122",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000006",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T15:06:40.980967",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000007",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:06:43.304799",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000008",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:17:13.715407",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000009",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:25:26.187241",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000010",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:30:41.433109",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000011",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:31:07.735250",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000012",
+    "user_id": "U001",
+    "action": "logout",
+    "timestamp": "2025-12-16T15:31:07.741803",
+    "details": {}
+  },
+  {
+    "activity_id": "ACT-000013",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:31:10.930288",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000014",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:40:22.559698",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000015",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:40:38.062983",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000016",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T15:40:38.102722",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000017",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:40:40.353074",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000018",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:40:51.571374",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000019",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:40:56.608139",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000020",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T15:40:56.653364",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000021",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:40:58.904992",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000022",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:41:11.265234",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000023",
+    "user_id": "U001",
+    "action": "logout",
+    "timestamp": "2025-12-16T15:41:11.275905",
+    "details": {}
+  },
+  {
+    "activity_id": "ACT-000024",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:41:21.690781",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000025",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:36.561460",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000026",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:48.043441",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000027",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:48.207859",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000028",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:51.502253",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000029",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:51.647570",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000030",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:53.153737",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000031",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:53.324848",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000032",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:55.387134",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000033",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:55.551711",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000034",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:49:58.272393",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000035",
+    "user_id": "U001",
+    "action": "logout",
+    "timestamp": "2025-12-16T15:49:58.294012",
+    "details": {}
+  },
+  {
+    "activity_id": "ACT-000036",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:53:51.406070",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000037",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:54:03.281577",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000038",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:54:13.912159",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000039",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T15:54:13.957083",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000040",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:54:16.234002",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000041",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:54:20.223683",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000042",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:54:20.391085",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000043",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:54:35.434109",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000044",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:54:47.832393",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000045",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:55:09.811968",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000046",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:55:48.133241",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000047",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T15:57:53.251039",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000048",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:00:01.420819",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000049",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:14:34.945961",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000050",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:14:53.857913",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000051",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:14:54.012305",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000052",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:14:58.107940",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000053",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:14:58.259866",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000054",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:00.241735",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000055",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:00.419761",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000056",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:02.125516",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000057",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:02.280706",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000058",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:03.909634",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000059",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:04.091610",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000060",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:06.423513",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000061",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:06.606684",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000062",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:07.864338",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000063",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:08.105726",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000064",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:09.897050",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000065",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:15:10.108549",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000066",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:16:52.129183",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000067",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:16:56.264149",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000068",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:16:56.485647",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000069",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:16:57.316519",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000070",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:16:57.539277",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000071",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:16:59.312745",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000072",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:16:59.523197",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000073",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:17:11.993505",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000074",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:17:12.109154",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000075",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:13.739059",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000076",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:15.885548",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000077",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:16.109285",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000078",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:16.624451",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000079",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:16.870353",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000080",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:17.535967",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000081",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:17.744129",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000082",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:18.755944",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000083",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:18.910808",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000084",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:19.699178",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000085",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:19.923104",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000086",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:21.670132",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000087",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:19:21.873368",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000088",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:25:26.400972",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000089",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:28:41.477427",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000090",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:37.139363",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000091",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:37.387808",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000092",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:47.460088",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000093",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:52.126722",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000094",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:52.342330",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000095",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:53.912308",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000096",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:54.129668",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000097",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:55.758724",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000098",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:55.943500",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000099",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:57.225388",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000100",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:57.431573",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000101",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:58.974648",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000102",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:29:59.172302",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000103",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:30:29.129017",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000104",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:30:29.307184",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000105",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:30:33.439103",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000106",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:30:33.616192",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000107",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:30:34.976794",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000108",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:30:35.179793",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000109",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:02.157831",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000110",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:13.188407",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000111",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T16:42:13.226375",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000112",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:15.431947",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000113",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:17.934049",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000114",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T16:42:17.958636",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000115",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:18.588219",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000116",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T16:42:18.635183",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000117",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:20.916381",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000118",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:24.934606",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000119",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:26.474251",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000120",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T16:42:26.517471",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000121",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:28.785011",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000122",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:31.752667",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000123",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:42:31.965219",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000124",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:43:35.924904",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000125",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:43:36.152785",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000126",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:43:38.961786",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000127",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:43:39.150810",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000128",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:43:51.924567",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000129",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:43:52.111803",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000130",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:44:09.094190",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000131",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:44:09.268038",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000132",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:44:10.857260",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000133",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:44:11.010562",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000134",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:44:12.240301",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000135",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:44:12.417804",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000136",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:44:14.858586",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000137",
+    "user_id": "U001",
+    "action": "logout",
+    "timestamp": "2025-12-16T16:44:14.883870",
+    "details": {}
+  },
+  {
+    "activity_id": "ACT-000138",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:49:44.859079",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000139",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:56:51.441077",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000140",
+    "user_id": "U001",
+    "action": "logout",
+    "timestamp": "2025-12-16T16:56:51.451476",
+    "details": {}
+  },
+  {
+    "activity_id": "ACT-000141",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T16:59:22.852532",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000142",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:12.618538",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000143",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:15.962418",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000144",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:16.153756",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000145",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:20.082508",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000146",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:20.290480",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000147",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:23.344344",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000148",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:23.466415",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000149",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:26.094819",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000150",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:26.220444",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000151",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:37.286554",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000152",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T17:02:37.502654",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000153",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:09:40.489341",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000154",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:11:31.120173",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000155",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:11:31.288028",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000156",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:11:49.481947",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000157",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:11:49.626154",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000158",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:10.112366",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000159",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:10.242571",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000160",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:13.564918",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000161",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:13.722189",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000162",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:17.441735",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000163",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:17.603485",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000164",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:39.284788",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000165",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:13:39.442838",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000166",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:19.488438",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000167",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:22.445843",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000168",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:23.734182",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000169",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:24.898801",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000170",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:32.504067",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000171",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:47.024355",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000172",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:49.999632",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000173",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:54.625304",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000174",
+    "user_id": "U001",
+    "action": "run_diagnostics",
+    "timestamp": "2025-12-16T18:14:54.709609",
+    "details": {
+      "vehicle_id": "V-005",
+      "severity": "Unknown",
+      "timestamp": "now"
+    }
+  },
+  {
+    "activity_id": "ACT-000175",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:14:56.920302",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000176",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:17:10.284998",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000177",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:17:10.442004",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000178",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:20.723605",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000179",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:37.498375",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000180",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:37.629217",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000181",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:50.230620",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000182",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:50.392678",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000183",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:53.031973",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000184",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:53.152570",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000185",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:54.435929",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000186",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:54.585924",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000187",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:56.699708",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000188",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:56.842914",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000189",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:58.301944",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000190",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:38:58.442478",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000191",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:39:09.065268",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000192",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:39:09.194481",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000193",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:43:18.059845",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000194",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:47:05.860492",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000195",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:50:52.789435",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000196",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:51:02.760307",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000197",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:53:38.063015",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000198",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:58:01.236161",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000199",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:58:12.760513",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000200",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:58:15.851033",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000201",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:58:17.537763",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000202",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:58:19.856120",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000203",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:59:15.739669",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000204",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T18:59:17.035623",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000205",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:00:24.330972",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000206",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:00:24.615436",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000207",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:12.414265",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000208",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:14.907240",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000209",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:16.223331",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000210",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:17.403908",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000211",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:19.205306",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000212",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:20.095227",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000213",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:20.913942",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000214",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:22.577281",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000215",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:40.012074",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000216",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:40.945366",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000217",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:01:41.645011",
+    "details": {
+      "page": "main"
+    }
+  },
+  {
+    "activity_id": "ACT-000218",
+    "user_id": "U001",
+    "action": "view_dashboard",
+    "timestamp": "2025-12-16T19:04:53.213639",
+    "details": {
+      "page": "main"
+    }
+  }
+]

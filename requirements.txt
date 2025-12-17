@@ -1,0 +1,21 @@
+# Core dependencies
+streamlit>=1.30.0
+pandas>=2.0.0
+langgraph>=0.0.26
+
+# Text-to-Speech
+gTTS>=2.5.0
+
+# AI Chatbot (Optional - for intelligent responses)
+openai>=1.0.0
+
+# Voice input (Optional - for voice transcription)
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13  # Required for microphone input (optional)
+
+# Async support
+asyncio-mqtt>=0.16.0
+
+# Data visualization (for analytics)
+plotly>=5.18.0
+matplotlib>=3.8.0

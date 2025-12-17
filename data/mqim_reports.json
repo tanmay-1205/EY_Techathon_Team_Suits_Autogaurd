@@ -1,0 +1,353 @@
+[
+  {
+    "report_id": "MQIM-00001",
+    "timestamp": "2025-12-16T15:06:41.001318",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00001",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "LOW",
+      "similar_failures": 1,
+      "recommendation": "Isolated incident. Monitor for pattern."
+    }
+  },
+  {
+    "report_id": "MQIM-00002",
+    "timestamp": "2025-12-16T15:40:38.112086",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00002",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "LOW",
+      "similar_failures": 2,
+      "recommendation": "Isolated incident. Monitor for pattern."
+    }
+  },
+  {
+    "report_id": "MQIM-00003",
+    "timestamp": "2025-12-16T15:40:56.667452",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00003",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "MODERATE",
+      "similar_failures": 3,
+      "recommendation": "Quality investigation recommended. Pattern emerging."
+    }
+  },
+  {
+    "report_id": "MQIM-00004",
+    "timestamp": "2025-12-16T15:54:13.976780",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00004",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "MODERATE",
+      "similar_failures": 4,
+      "recommendation": "Quality investigation recommended. Pattern emerging."
+    }
+  },
+  {
+    "report_id": "MQIM-00005",
+    "timestamp": "2025-12-16T16:42:13.248725",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00005",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "HIGH",
+      "similar_failures": 5,
+      "recommendation": "Recall consideration warranted. Multiple units affected."
+    }
+  },
+  {
+    "report_id": "MQIM-00006",
+    "timestamp": "2025-12-16T16:42:17.977020",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00006",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "HIGH",
+      "similar_failures": 6,
+      "recommendation": "Recall consideration warranted. Multiple units affected."
+    }
+  },
+  {
+    "report_id": "MQIM-00007",
+    "timestamp": "2025-12-16T16:42:18.669499",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00007",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "HIGH",
+      "similar_failures": 7,
+      "recommendation": "Recall consideration warranted. Multiple units affected."
+    }
+  },
+  {
+    "report_id": "MQIM-00008",
+    "timestamp": "2025-12-16T16:42:26.532567",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00008",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "HIGH",
+      "similar_failures": 8,
+      "recommendation": "Recall consideration warranted. Multiple units affected."
+    }
+  },
+  {
+    "report_id": "MQIM-00009",
+    "timestamp": "2025-12-16T18:14:54.739742",
+    "vehicle_id": "V-005",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "part_type": "brake_pad",
+    "manufacturer": "Brembo Corp",
+    "severity": "Critical",
+    "issue_description": "Critical Brake Wear (2.1mm)",
+    "all_issues": [
+      "Critical Brake Wear (2.1mm)"
+    ],
+    "telematics_snapshot": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "notification_sent": true,
+    "notification_data": {
+      "report_id": "MQIM-00009",
+      "manufacturer": "Brembo Corp",
+      "part_type": "brake_pad",
+      "vehicle_info": "2022 Tesla Model Y",
+      "severity": "Critical",
+      "issue": "Critical Brake Wear (2.1mm)",
+      "recall_risk": "HIGH",
+      "similar_failures": 9,
+      "recommendation": "Recall consideration warranted. Multiple units affected."
+    }
+  }
+]

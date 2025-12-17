@@ -1,0 +1,1502 @@
+[
+  {
+    "vehicle_id": "V-005",
+    "owner_id": "OWNER-005",
+    "owner_name": "Arjun Mehta",
+    "owner_phone": "+1-555-0104",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 42000,
+      "speed_kmh": 65.0,
+      "engine_rpm": 0,
+      "engine_load_pct": 20.0,
+      "coolant_temp_c": 60.0,
+      "battery_voltage_v": 13.8,
+      "fuel_level_pct": 78.0,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 2.1,
+      "tire_pressure_psi": 30
+    },
+    "maintenance_history": {
+      "km_since_last_service": 11000,
+      "km_since_last_oil_change": 0,
+      "num_repairs_last_12m": 1
+    },
+    "label": "critical_brake_risk"
+  },
+  {
+    "vehicle_id": "V-001",
+    "owner_id": "OWNER-001",
+    "owner_name": "Rohan Kapoor",
+    "owner_phone": "+1-555-0100",
+    "metadata": {
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 12296,
+      "speed_kmh": 81.57055497358162,
+      "engine_rpm": 4732,
+      "engine_load_pct": 74.65321786781479,
+      "coolant_temp_c": 105.93695239861593,
+      "battery_voltage_v": 13.973689641196037,
+      "fuel_level_pct": 82.45256973933918,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 6.347755330517664,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1260,
+      "km_since_last_oil_change": 1122,
+      "num_repairs_last_12m": 0
+    },
+    "label": "overheating_risk"
+  },
+  {
+    "vehicle_id": "V-002",
+    "owner_id": "OWNER-002",
+    "owner_name": "Vikram Singh",
+    "owner_phone": "+1-555-0101",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 41781,
+      "speed_kmh": 78.76215742146438,
+      "engine_rpm": 4189,
+      "engine_load_pct": 73.10958999623563,
+      "coolant_temp_c": 108.40250516517992,
+      "battery_voltage_v": 13.912485978713136,
+      "fuel_level_pct": 76.66013196744787,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 6.025995038712244,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6719,
+      "km_since_last_oil_change": 2731,
+      "num_repairs_last_12m": 0
+    },
+    "label": "overheating_risk"
+  },
+  {
+    "vehicle_id": "V-003",
+    "owner_id": "OWNER-003",
+    "owner_name": "Priya Patel",
+    "owner_phone": "+1-555-0102",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2023,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 11078,
+      "speed_kmh": 10.638801451681042,
+      "engine_rpm": 4240,
+      "engine_load_pct": 82.57279598988887,
+      "coolant_temp_c": 107.93178281407093,
+      "battery_voltage_v": 14.010812250685673,
+      "fuel_level_pct": 57.53596640182905,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 9.892463055917482,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1645,
+      "km_since_last_oil_change": 3261,
+      "num_repairs_last_12m": 0
+    },
+    "label": "overheating_risk"
+  },
+  {
+    "vehicle_id": "V-004",
+    "owner_id": "OWNER-004",
+    "owner_name": "Karan Malhotra",
+    "owner_phone": "+1-555-0103",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 17601,
+      "speed_kmh": 5.040682202122843,
+      "engine_rpm": 1266,
+      "engine_load_pct": 34.3267085197173,
+      "coolant_temp_c": 94.85221520660758,
+      "battery_voltage_v": 10.97428183266111,
+      "fuel_level_pct": 80.65385667286887,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 7.520504900156665,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6207,
+      "km_since_last_oil_change": 4416,
+      "num_repairs_last_12m": 0
+    },
+    "label": "battery_risk"
+  },
+  {
+    "vehicle_id": "V-006",
+    "owner_id": "OWNER-006",
+    "owner_name": "Neel Joshi",
+    "owner_phone": "+1-555-0105",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 28283,
+      "speed_kmh": 73.71926918154627,
+      "engine_rpm": 2237,
+      "engine_load_pct": 38.41636469281235,
+      "coolant_temp_c": 91.48035385246594,
+      "battery_voltage_v": 10.850932174819562,
+      "fuel_level_pct": 31.97970537386679,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 8.916507191801397,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 4786,
+      "km_since_last_oil_change": 2554,
+      "num_repairs_last_12m": 0
+    },
+    "label": "battery_risk"
+  },
+  {
+    "vehicle_id": "V-007",
+    "owner_id": "OWNER-007",
+    "owner_name": "Kavya Nair",
+    "owner_phone": "+1-555-0106",
+    "metadata": {
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 50099,
+      "speed_kmh": 24.157669136729588,
+      "engine_rpm": 1464,
+      "engine_load_pct": 36.071298004745245,
+      "coolant_temp_c": 92.75999911546245,
+      "battery_voltage_v": 11.687076961441209,
+      "fuel_level_pct": 22.24701707328264,
+      "active_dtc_count": 1,
+      "brake_pad_thickness_mm": 7.261812192236327,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1542,
+      "km_since_last_oil_change": 1864,
+      "num_repairs_last_12m": 0
+    },
+    "label": "battery_risk"
+  },
+  {
+    "vehicle_id": "V-008",
+    "owner_id": "OWNER-008",
+    "owner_name": "Aarav Sharma",
+    "owner_phone": "+1-555-0107",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 52049,
+      "speed_kmh": 23.388919845955467,
+      "engine_rpm": 1822,
+      "engine_load_pct": 24.890797526516607,
+      "coolant_temp_c": 94.14547589740543,
+      "battery_voltage_v": 13.821196296811179,
+      "fuel_level_pct": 38.54161165486367,
+      "active_dtc_count": 2,
+      "brake_pad_thickness_mm": 6.986510030775934,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 24577,
+      "km_since_last_oil_change": 18509,
+      "num_repairs_last_12m": 5
+    },
+    "label": "neglected_risk"
+  },
+  {
+    "vehicle_id": "V-009",
+    "owner_id": "OWNER-009",
+    "owner_name": "Ananya Iyer",
+    "owner_phone": "+1-555-0108",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 28723,
+      "speed_kmh": 109.70583557880771,
+      "engine_rpm": 1083,
+      "engine_load_pct": 27.738157341911613,
+      "coolant_temp_c": 85.90909412173794,
+      "battery_voltage_v": 13.532981462797315,
+      "fuel_level_pct": 27.67543912454614,
+      "active_dtc_count": 2,
+      "brake_pad_thickness_mm": 8.50978416681236,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 21304,
+      "km_since_last_oil_change": 18126,
+      "num_repairs_last_12m": 5
+    },
+    "label": "neglected_risk"
+  },
+  {
+    "vehicle_id": "V-010",
+    "owner_id": "OWNER-010",
+    "owner_name": "Rishi Agarwal",
+    "owner_phone": "+1-555-0109",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 39676,
+      "speed_kmh": 106.81862153749799,
+      "engine_rpm": 823,
+      "engine_load_pct": 32.007085256412964,
+      "coolant_temp_c": 86.14551742983687,
+      "battery_voltage_v": 14.119351915090375,
+      "fuel_level_pct": 72.56144597141268,
+      "active_dtc_count": 2,
+      "brake_pad_thickness_mm": 9.074394930629783,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 22123,
+      "km_since_last_oil_change": 16295,
+      "num_repairs_last_12m": 4
+    },
+    "label": "neglected_risk"
+  },
+  {
+    "vehicle_id": "V-011",
+    "owner_id": "OWNER-011",
+    "owner_name": "Sneha Desai",
+    "owner_phone": "+1-555-0110",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 52323,
+      "speed_kmh": 106.90769087571258,
+      "engine_rpm": 2360,
+      "engine_load_pct": 19.466297013253282,
+      "coolant_temp_c": 94.1262783934482,
+      "battery_voltage_v": 14.109362998885736,
+      "fuel_level_pct": 40.8911354014043,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.555797979464021,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2629,
+      "km_since_last_oil_change": 1626,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-012",
+    "owner_id": "OWNER-012",
+    "owner_name": "Meera Rao",
+    "owner_phone": "+1-555-0111",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 54971,
+      "speed_kmh": 59.33169331315883,
+      "engine_rpm": 2394,
+      "engine_load_pct": 38.06085201545687,
+      "coolant_temp_c": 94.18493494395702,
+      "battery_voltage_v": 13.91926120912216,
+      "fuel_level_pct": 54.20239956202635,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.44747090128358,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 7813,
+      "km_since_last_oil_change": 4304,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-013",
+    "owner_id": "OWNER-013",
+    "owner_name": "Dev Patel",
+    "owner_phone": "+1-555-0112",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 20692,
+      "speed_kmh": 26.495875169195642,
+      "engine_rpm": 1961,
+      "engine_load_pct": 38.673736132449854,
+      "coolant_temp_c": 85.85653452067879,
+      "battery_voltage_v": 13.840193324321628,
+      "fuel_level_pct": 24.844876292786854,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.042408661028926,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2051,
+      "km_since_last_oil_change": 3702,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-014",
+    "owner_id": "OWNER-014",
+    "owner_name": "Pooja Shah",
+    "owner_phone": "+1-555-0113",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 41031,
+      "speed_kmh": 29.156229183406502,
+      "engine_rpm": 2042,
+      "engine_load_pct": 25.578448505022173,
+      "coolant_temp_c": 87.11798205442082,
+      "battery_voltage_v": 13.87750726214562,
+      "fuel_level_pct": 71.09517483629833,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.804604253558784,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 4268,
+      "km_since_last_oil_change": 3751,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-015",
+    "owner_id": "OWNER-015",
+    "owner_name": "Aditya Kumar",
+    "owner_phone": "+1-555-0114",
+    "metadata": {
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2023,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 29472,
+      "speed_kmh": 98.957549310724,
+      "engine_rpm": 1724,
+      "engine_load_pct": 18.025104896706644,
+      "coolant_temp_c": 87.24697337031557,
+      "battery_voltage_v": 13.73665989350322,
+      "fuel_level_pct": 61.18161029200633,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.920458930386308,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1058,
+      "km_since_last_oil_change": 1290,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-016",
+    "owner_id": "OWNER-016",
+    "owner_name": "Radha Menon",
+    "owner_phone": "+1-555-0115",
+    "metadata": {
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 46359,
+      "speed_kmh": 25.18359621922698,
+      "engine_rpm": 864,
+      "engine_load_pct": 36.49088500634366,
+      "coolant_temp_c": 85.70857349888654,
+      "battery_voltage_v": 13.666603244058296,
+      "fuel_level_pct": 66.82844448073965,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.856947229481754,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6925,
+      "km_since_last_oil_change": 4831,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-017",
+    "owner_id": "OWNER-017",
+    "owner_name": "Rohit Tiwari",
+    "owner_phone": "+1-555-0116",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2023,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 42762,
+      "speed_kmh": 26.729696663529698,
+      "engine_rpm": 1768,
+      "engine_load_pct": 35.18742494416608,
+      "coolant_temp_c": 86.90409914361878,
+      "battery_voltage_v": 13.567851569960176,
+      "fuel_level_pct": 50.17358276844642,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.694314492079683,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6972,
+      "km_since_last_oil_change": 1221,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-018",
+    "owner_id": "OWNER-018",
+    "owner_name": "Aanya Gupta",
+    "owner_phone": "+1-555-0117",
+    "metadata": {
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 47824,
+      "speed_kmh": 6.667394148471502,
+      "engine_rpm": 2291,
+      "engine_load_pct": 23.48256513487408,
+      "coolant_temp_c": 93.6167253635279,
+      "battery_voltage_v": 13.6740594337442,
+      "fuel_level_pct": 33.314623590856804,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.794454191332528,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2503,
+      "km_since_last_oil_change": 2140,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-019",
+    "owner_id": "OWNER-019",
+    "owner_name": "Manish Gupta",
+    "owner_phone": "+1-555-0118",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 21371,
+      "speed_kmh": 48.744381955880264,
+      "engine_rpm": 1927,
+      "engine_load_pct": 17.447718205040008,
+      "coolant_temp_c": 91.52144893998522,
+      "battery_voltage_v": 13.878411556670214,
+      "fuel_level_pct": 21.03304995469554,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.373051104735344,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2362,
+      "km_since_last_oil_change": 2664,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-020",
+    "owner_id": "OWNER-020",
+    "owner_name": "Anjali Reddy",
+    "owner_phone": "+1-555-0119",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 36546,
+      "speed_kmh": 95.1115433433237,
+      "engine_rpm": 920,
+      "engine_load_pct": 19.115928035038174,
+      "coolant_temp_c": 85.02155378351426,
+      "battery_voltage_v": 13.773295230311469,
+      "fuel_level_pct": 84.85626514915333,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.140517427176487,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 4465,
+      "km_since_last_oil_change": 3853,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-021",
+    "owner_id": "OWNER-021",
+    "owner_name": "Rajesh Kumar",
+    "owner_phone": "+1-555-0120",
+    "metadata": {
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 56338,
+      "speed_kmh": 72.80584431458198,
+      "engine_rpm": 1796,
+      "engine_load_pct": 18.869920631851603,
+      "coolant_temp_c": 87.96707825494565,
+      "battery_voltage_v": 14.17809655547841,
+      "fuel_level_pct": 60.542620357137935,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.168780805497097,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1468,
+      "km_since_last_oil_change": 1205,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-022",
+    "owner_id": "OWNER-022",
+    "owner_name": "Divya Nair",
+    "owner_phone": "+1-555-0121",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 36246,
+      "speed_kmh": 101.13258439152828,
+      "engine_rpm": 1887,
+      "engine_load_pct": 18.93581819848708,
+      "coolant_temp_c": 94.6077890327445,
+      "battery_voltage_v": 13.55607802566841,
+      "fuel_level_pct": 33.007747268650625,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.38014042580011,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 4307,
+      "km_since_last_oil_change": 1491,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-023",
+    "owner_id": "OWNER-023",
+    "owner_name": "Siddharth Rao",
+    "owner_phone": "+1-555-0122",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 21135,
+      "speed_kmh": 65.39710688867854,
+      "engine_rpm": 2068,
+      "engine_load_pct": 17.04958513737189,
+      "coolant_temp_c": 91.57373164472523,
+      "battery_voltage_v": 13.895658846690862,
+      "fuel_level_pct": 42.1458892183709,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.043062782414531,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2955,
+      "km_since_last_oil_change": 2087,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-024",
+    "owner_id": "OWNER-024",
+    "owner_name": "Shreya Iyer",
+    "owner_phone": "+1-555-0123",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 13577,
+      "speed_kmh": 50.29470298274972,
+      "engine_rpm": 2339,
+      "engine_load_pct": 38.39335718612058,
+      "coolant_temp_c": 85.09315456884246,
+      "battery_voltage_v": 13.934811478845164,
+      "fuel_level_pct": 59.409555194726224,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.399924995698354,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2746,
+      "km_since_last_oil_change": 3072,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-025",
+    "owner_id": "OWNER-025",
+    "owner_name": "Amit Sharma",
+    "owner_phone": "+1-555-0124",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 13680,
+      "speed_kmh": 96.89505910550835,
+      "engine_rpm": 1300,
+      "engine_load_pct": 24.2381772184721,
+      "coolant_temp_c": 86.57746832357232,
+      "battery_voltage_v": 14.083621468247864,
+      "fuel_level_pct": 69.24779475611597,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.4467110629038,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1064,
+      "km_since_last_oil_change": 3735,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-026",
+    "owner_id": "OWNER-026",
+    "owner_name": "Kavita Patel",
+    "owner_phone": "+1-555-0125",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 24620,
+      "speed_kmh": 103.28230043198143,
+      "engine_rpm": 1075,
+      "engine_load_pct": 21.611648037178192,
+      "coolant_temp_c": 93.8971270700571,
+      "battery_voltage_v": 14.019691678786698,
+      "fuel_level_pct": 30.881353684249333,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.127025085831577,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6878,
+      "km_since_last_oil_change": 2404,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-027",
+    "owner_id": "OWNER-027",
+    "owner_name": "Varun Mehta",
+    "owner_phone": "+1-555-0126",
+    "metadata": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 50055,
+      "speed_kmh": 55.59499639077859,
+      "engine_rpm": 1314,
+      "engine_load_pct": 37.63341227698308,
+      "coolant_temp_c": 93.46103713294855,
+      "battery_voltage_v": 13.564608927398913,
+      "fuel_level_pct": 49.650304079460845,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.106720895889007,
+      "tire_pressure_psi": 32
+    },
+    "maintenance_history": {
+      "km_since_last_service": 3732,
+      "km_since_last_oil_change": 4158,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-028",
+    "owner_id": "OWNER-028",
+    "owner_name": "Arjun Reddy",
+    "owner_phone": "+1-555-0127",
+    "metadata": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 46753,
+      "speed_kmh": 17.774017390127476,
+      "engine_rpm": 1704,
+      "engine_load_pct": 28.792010528159782,
+      "coolant_temp_c": 89.27686918980679,
+      "battery_voltage_v": 13.506768789725838,
+      "fuel_level_pct": 25.26707020516369,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.532425573200571,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 5469,
+      "km_since_last_oil_change": 1147,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-029",
+    "owner_id": "OWNER-029",
+    "owner_name": "Nisha Agarwal",
+    "owner_phone": "+1-555-0128",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 43175,
+      "speed_kmh": 16.290316412423092,
+      "engine_rpm": 1061,
+      "engine_load_pct": 16.045721454221447,
+      "coolant_temp_c": 88.64651515327256,
+      "battery_voltage_v": 14.153161607364456,
+      "fuel_level_pct": 88.05373855120823,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.159579512444873,
+      "tire_pressure_psi": 34
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2720,
+      "km_since_last_oil_change": 3793,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-030",
+    "owner_id": "OWNER-030",
+    "owner_name": "Akash Verma",
+    "owner_phone": "+1-555-0129",
+    "metadata": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 48708,
+      "speed_kmh": 38.90464980760802,
+      "engine_rpm": 1946,
+      "engine_load_pct": 37.10336753627522,
+      "coolant_temp_c": 89.06377389832117,
+      "battery_voltage_v": 13.934463057105498,
+      "fuel_level_pct": 30.818733683254322,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.719524062774697,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 7552,
+      "km_since_last_oil_change": 4320,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-031",
+    "owner_id": "OWNER-031",
+    "owner_name": "Tanvi Desai",
+    "owner_phone": "+1-555-0130",
+    "metadata": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 32020,
+      "speed_kmh": 19.72967297600277,
+      "engine_rpm": 1480,
+      "engine_load_pct": 34.559662403690794,
+      "coolant_temp_c": 89.11713166551553,
+      "battery_voltage_v": 13.968934990501737,
+      "fuel_level_pct": 71.45402771795133,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.992668964469603,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 7450,
+      "km_since_last_oil_change": 3872,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-032",
+    "owner_id": "OWNER-032",
+    "owner_name": "Harsh Joshi",
+    "owner_phone": "+1-555-0131",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 30070,
+      "speed_kmh": 94.44525764715598,
+      "engine_rpm": 1255,
+      "engine_load_pct": 19.9893207506438,
+      "coolant_temp_c": 94.18451901229496,
+      "battery_voltage_v": 13.744760897112142,
+      "fuel_level_pct": 77.43754666800933,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.485292143452032,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1193,
+      "km_since_last_oil_change": 3703,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-033",
+    "owner_id": "OWNER-033",
+    "owner_name": "Riya Kapoor",
+    "owner_phone": "+1-555-0132",
+    "metadata": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 31113,
+      "speed_kmh": 30.64633671253043,
+      "engine_rpm": 942,
+      "engine_load_pct": 39.17222760120903,
+      "coolant_temp_c": 87.79124992721871,
+      "battery_voltage_v": 13.949037217025339,
+      "fuel_level_pct": 47.97748690520426,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.924598748793041,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 3712,
+      "km_since_last_oil_change": 4847,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-034",
+    "owner_id": "OWNER-034",
+    "owner_name": "Kunal Singh",
+    "owner_phone": "+1-555-0133",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 12559,
+      "speed_kmh": 19.642459778971002,
+      "engine_rpm": 1343,
+      "engine_load_pct": 15.956429933831568,
+      "coolant_temp_c": 90.96571254987745,
+      "battery_voltage_v": 13.74198097817586,
+      "fuel_level_pct": 75.04997247425774,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.745575535482432,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1947,
+      "km_since_last_oil_change": 2577,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-035",
+    "owner_id": "OWNER-035",
+    "owner_name": "Anika Malhotra",
+    "owner_phone": "+1-555-0134",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 17457,
+      "speed_kmh": 4.88251870845542,
+      "engine_rpm": 1693,
+      "engine_load_pct": 15.042281955465736,
+      "coolant_temp_c": 94.25575165499083,
+      "battery_voltage_v": 13.876916397964955,
+      "fuel_level_pct": 70.36009994013918,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.967800311357905,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 3983,
+      "km_since_last_oil_change": 2766,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-036",
+    "owner_id": "OWNER-036",
+    "owner_name": "Pranav Iyer",
+    "owner_phone": "+1-555-0135",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 48531,
+      "speed_kmh": 68.547095094105,
+      "engine_rpm": 2158,
+      "engine_load_pct": 36.20038198765839,
+      "coolant_temp_c": 92.19754263013951,
+      "battery_voltage_v": 13.710225587747885,
+      "fuel_level_pct": 41.649926354605725,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.633571634476867,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6711,
+      "km_since_last_oil_change": 2211,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-037",
+    "owner_id": "OWNER-037",
+    "owner_name": "Swati Nair",
+    "owner_phone": "+1-555-0136",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 13341,
+      "speed_kmh": 46.24909671501991,
+      "engine_rpm": 1576,
+      "engine_load_pct": 31.932948631818324,
+      "coolant_temp_c": 94.02805545732582,
+      "battery_voltage_v": 13.930860441165965,
+      "fuel_level_pct": 41.06649121958957,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.191748852542792,
+      "tire_pressure_psi": 32
+    },
+    "maintenance_history": {
+      "km_since_last_service": 3489,
+      "km_since_last_oil_change": 2175,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-038",
+    "owner_id": "OWNER-038",
+    "owner_name": "Yash Patel",
+    "owner_phone": "+1-555-0137",
+    "metadata": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 33173,
+      "speed_kmh": 66.7327727527739,
+      "engine_rpm": 1459,
+      "engine_load_pct": 26.624704756175355,
+      "coolant_temp_c": 89.42159799304807,
+      "battery_voltage_v": 13.64959098069237,
+      "fuel_level_pct": 53.12303301365284,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.604723303313017,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6397,
+      "km_since_last_oil_change": 1347,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-039",
+    "owner_id": "OWNER-039",
+    "owner_name": "Ishita Reddy",
+    "owner_phone": "+1-555-0138",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 38780,
+      "speed_kmh": 36.8707080950781,
+      "engine_rpm": 2476,
+      "engine_load_pct": 38.799991561311884,
+      "coolant_temp_c": 87.34868598526684,
+      "battery_voltage_v": 13.717293625006441,
+      "fuel_level_pct": 76.45940262033861,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.589415848983091,
+      "tire_pressure_psi": 32
+    },
+    "maintenance_history": {
+      "km_since_last_service": 3005,
+      "km_since_last_oil_change": 2946,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-040",
+    "owner_id": "OWNER-040",
+    "owner_name": "Karthik Rao",
+    "owner_phone": "+1-555-0139",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 55363,
+      "speed_kmh": 50.095778521809805,
+      "engine_rpm": 2089,
+      "engine_load_pct": 29.391772485232956,
+      "coolant_temp_c": 92.18345915498989,
+      "battery_voltage_v": 13.768784927174925,
+      "fuel_level_pct": 47.97570040135764,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.590285380365193,
+      "tire_pressure_psi": 32
+    },
+    "maintenance_history": {
+      "km_since_last_service": 7151,
+      "km_since_last_oil_change": 4524,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-041",
+    "owner_id": "OWNER-041",
+    "owner_name": "Pooja Menon",
+    "owner_phone": "+1-555-0140",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2023,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 56014,
+      "speed_kmh": 24.072525049355136,
+      "engine_rpm": 2446,
+      "engine_load_pct": 38.9491510569885,
+      "coolant_temp_c": 90.1795775044374,
+      "battery_voltage_v": 13.535152869598448,
+      "fuel_level_pct": 37.443879576198015,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.393345389406639,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2092,
+      "km_since_last_oil_change": 4282,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-042",
+    "owner_id": "OWNER-042",
+    "owner_name": "Nikhil Tiwari",
+    "owner_phone": "+1-555-0141",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2024,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 48750,
+      "speed_kmh": 108.66816983730928,
+      "engine_rpm": 2019,
+      "engine_load_pct": 22.93244893663369,
+      "coolant_temp_c": 92.55250013555779,
+      "battery_voltage_v": 13.809801397687618,
+      "fuel_level_pct": 77.05045551321787,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.568081185364072,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 7804,
+      "km_since_last_oil_change": 4714,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-043",
+    "owner_id": "OWNER-043",
+    "owner_name": "Aditi Verma",
+    "owner_phone": "+1-555-0142",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 34223,
+      "speed_kmh": 81.80209863755434,
+      "engine_rpm": 1772,
+      "engine_load_pct": 26.251743931172705,
+      "coolant_temp_c": 92.51776786500511,
+      "battery_voltage_v": 14.087904021489344,
+      "fuel_level_pct": 39.411794719151835,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 9.110699341335888,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6134,
+      "km_since_last_oil_change": 1979,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-044",
+    "owner_id": "OWNER-044",
+    "owner_name": "Sameer Gupta",
+    "owner_phone": "+1-555-0143",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 33827,
+      "speed_kmh": 78.48993488721621,
+      "engine_rpm": 1280,
+      "engine_load_pct": 21.792877677054616,
+      "coolant_temp_c": 88.19709568418762,
+      "battery_voltage_v": 13.878106555762919,
+      "fuel_level_pct": 29.6861843061309,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.925045918912748,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 6786,
+      "km_since_last_oil_change": 1876,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-045",
+    "owner_id": "OWNER-045",
+    "owner_name": "Deepika Sharma",
+    "owner_phone": "+1-555-0144",
+    "metadata": {
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2023,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 32188,
+      "speed_kmh": 36.396953014189194,
+      "engine_rpm": 1754,
+      "engine_load_pct": 25.394355852578897,
+      "coolant_temp_c": 87.0683438951441,
+      "battery_voltage_v": 13.794100462441397,
+      "fuel_level_pct": 83.33869348381239,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.3363176568169,
+      "tire_pressure_psi": 32
+    },
+    "maintenance_history": {
+      "km_since_last_service": 7271,
+      "km_since_last_oil_change": 3358,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-046",
+    "owner_id": "OWNER-046",
+    "owner_name": "Rohan Mehta",
+    "owner_phone": "+1-555-0145",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 36259,
+      "speed_kmh": 103.70158231775066,
+      "engine_rpm": 1411,
+      "engine_load_pct": 33.83687812648465,
+      "coolant_temp_c": 93.53447950569105,
+      "battery_voltage_v": 14.167401236929074,
+      "fuel_level_pct": 49.33148978408753,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.990062675912203,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 7552,
+      "km_since_last_oil_change": 3470,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-047",
+    "owner_id": "OWNER-047",
+    "owner_name": "Meera Agarwal",
+    "owner_phone": "+1-555-0146",
+    "metadata": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2021,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 36996,
+      "speed_kmh": 30.022884293958224,
+      "engine_rpm": 1794,
+      "engine_load_pct": 15.725620498667881,
+      "coolant_temp_c": 88.36129543698382,
+      "battery_voltage_v": 13.975399319519845,
+      "fuel_level_pct": 48.302166839634594,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.660178924814035,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2045,
+      "km_since_last_oil_change": 3548,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-048",
+    "owner_id": "OWNER-048",
+    "owner_name": "Arnav Verma",
+    "owner_phone": "+1-555-0147",
+    "metadata": {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2023,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 6767,
+      "speed_kmh": 65.1082053190702,
+      "engine_rpm": 2157,
+      "engine_load_pct": 15.67755115850781,
+      "coolant_temp_c": 91.42749648009335,
+      "battery_voltage_v": 13.594989641061394,
+      "fuel_level_pct": 52.31889108360582,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 6.20113853395451,
+      "tire_pressure_psi": 35
+    },
+    "maintenance_history": {
+      "km_since_last_service": 3681,
+      "km_since_last_oil_change": 1866,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-049",
+    "owner_id": "OWNER-049",
+    "owner_name": "Kritika Desai",
+    "owner_phone": "+1-555-0148",
+    "metadata": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 26420,
+      "speed_kmh": 83.73526786834299,
+      "engine_rpm": 1576,
+      "engine_load_pct": 21.95641539097015,
+      "coolant_temp_c": 94.51204119860562,
+      "battery_voltage_v": 13.795095378731117,
+      "fuel_level_pct": 78.44376404384849,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 7.881227344852188,
+      "tire_pressure_psi": 36
+    },
+    "maintenance_history": {
+      "km_since_last_service": 1426,
+      "km_since_last_oil_change": 4899,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  },
+  {
+    "vehicle_id": "V-050",
+    "owner_id": "OWNER-050",
+    "owner_name": "Ishaan Mehta",
+    "owner_phone": "+1-555-0149",
+    "metadata": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "timestamp": "2025-12-08T12:13:56.075632"
+    },
+    "telematics": {
+      "odometer_km": 19694,
+      "speed_kmh": 85.93563545719844,
+      "engine_rpm": 2134,
+      "engine_load_pct": 16.006453438519163,
+      "coolant_temp_c": 85.31029998880712,
+      "battery_voltage_v": 13.673098312613014,
+      "fuel_level_pct": 78.74601923992188,
+      "active_dtc_count": 0,
+      "brake_pad_thickness_mm": 8.485342626344632,
+      "tire_pressure_psi": 33
+    },
+    "maintenance_history": {
+      "km_since_last_service": 2034,
+      "km_since_last_oil_change": 2939,
+      "num_repairs_last_12m": 0
+    },
+    "label": "healthy"
+  }
+]
