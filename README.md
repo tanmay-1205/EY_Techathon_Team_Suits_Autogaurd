@@ -2,11 +2,7 @@
 
 **EY Techathon 6.0 Submission - Team Suits**
 
-Team Members 
-Adway Jha
-Parth Khose 
-Viven Sharma
-Tanmay Amritkar
+Team Members : Adway Jha, Parth Khose, Viven Sharma, Tanmay Amritkar
 
 ## Executive Summary
 
