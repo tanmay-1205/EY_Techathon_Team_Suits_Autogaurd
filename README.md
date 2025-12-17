@@ -1,7 +1,9 @@
 # AutoGuard: Autonomous Agentic AI Ecosystem
 
 **EY Techathon 6.0 Submission - Team Suits**
+
 College Name : Indian Institute of Technology Kharagpur
+
 Team Members : 
 
 Adway Jha (+91 86551 94335)
