@@ -1,7 +1,12 @@
 # AutoGuard: Autonomous Agentic AI Ecosystem
 
 **EY Techathon 6.0 Submission - Team Suits**
-** Team Members **
+
+Team Members 
+Adway Jha
+Parth Khose 
+Viven Sharma
+Tanmay Amritkar
 
 ## Executive Summary
 
